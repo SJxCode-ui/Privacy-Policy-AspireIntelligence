@@ -8,6 +8,7 @@ For more information and to understand your rights, you can also view the comple
 **Owner and Data Controller**
 </br>
 __Owner contact email__: scemerjr.0001@gmail.com
+</br>
 __Discord ID__: Scemer Jr.#0001
 
 
