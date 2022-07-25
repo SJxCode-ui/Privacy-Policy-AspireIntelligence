@@ -5,7 +5,7 @@ For more information and to understand your rights, you can also view the comple
 
 # Contact Information
 
-**Owner and Data Controller**
+<h3> Owner and Data Controller </h3>
 </br>
 __Owner contact email__: scemerjr.0001@gmail.com
 </br>
