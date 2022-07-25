@@ -6,7 +6,8 @@ For more information and to understand your rights, you can also view the comple
 # Contact Information
 
 **Owner and Data Controller**
-Owner contact email: scemerjr.0001@gmail.com
-Discord ID: Scemer Jr.#0001
+</br>
+__Owner contact email__: scemerjr.0001@gmail.com
+__Discord ID__: Scemer Jr.#0001
 
 
